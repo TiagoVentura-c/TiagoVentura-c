@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Tiago Ventura
-- 👀 I’m interested in Trabalhar como desenvolver Android e Spring 
-- 🌱 I’m currently learning Android, Spring Boot, React-native
-- 💞️ I’m looking to collaborate on projectos que me façam desenvolver mais.
+- 👋 Olá, sou o Tiago Ventura
+- 👀 Estou interessado em Trabalhar como desenvolver Java, Spring Boot. 
+- 🌱 Actualmente estou aprendendo Spring Boot, ReactJs e Kotlin 
